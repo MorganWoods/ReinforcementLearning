@@ -30,3 +30,6 @@
 
 ## Searching for optimal solution
 > This task is working on finding right solution of a complex function. Using the advantage of reinforcement learning, agent is used to find out the solution under complicated and tedious environment instead of human.
+
+## Multi-dimensional continuous control via hierarchical reinforcement learning frame
+> Apply hierarchical frame in multi-actions contorlling task.
