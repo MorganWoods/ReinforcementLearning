@@ -8,7 +8,7 @@
   * [Gym_MountainCar](https://github.com/MorganWoods/ReinforcementLearning/blob/master/Gym_MountainCar/MountainCar-V0-QL.py)
   * [Gym_Pendulum_DoubleDQN](https://github.com/MorganWoods/ReinforcementLearning/blob/master/Gym_Pendulum_DoubleDQN/run_Pendulum.py)
 
-## Distance prediction
+## Distance evaluation
 
   * [Reading distance from snapshots](https://github.com/MorganWoods/ReinforcementLearning/tree/master/DistancePrediction)
 
